@@ -1,3 +1,6 @@
-const test = "test";
+import Additioner from "./additioner";
 
-console.log(test);
+let add = new Additioner();
+
+add.inc(1);
+console.log(add)
