@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/over-flo/simple-npm-package/compare/v1.0.0...v1.1.0) (2022-10-28)
+
+
+### Features
+
+* **code:** change ([78c699c](https://github.com/over-flo/simple-npm-package/commit/78c699cb4dafc3af5c02582d086c4407884f34d5))
+
 # 1.0.0 (2022-10-28)
 
 
