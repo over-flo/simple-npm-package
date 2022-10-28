@@ -33,4 +33,5 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
       run: npx semantic-release
