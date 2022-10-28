@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/over-flo/simple-npm-package/compare/v1.1.0...v1.1.1) (2022-10-28)
+
+
+### Bug Fixes
+
+* **code:** change ([5195e8c](https://github.com/over-flo/simple-npm-package/commit/5195e8cfb913e07f6da37ae90bf2c79285a966a1))
+
 # [1.1.0](https://github.com/over-flo/simple-npm-package/compare/v1.0.0...v1.1.0) (2022-10-28)
 
 
